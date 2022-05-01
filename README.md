@@ -4,13 +4,11 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Projects
 
-| Name                                                                 | Description                   | Tech/tools                                ----------------------------                                           | ----------------------------- | -------------------------------------   
-| **[Get Me Out Of Here](https://github.com/CBuchan5/escape-room)**    | An escape room based webgame. | React, Node js, HTML/CSS, Matter js,   
-|                                                                      |                               | Testing: jest (back and frontend),      
-|                                                                      |                               | Integration testing: cypress            
-| **[ACEBook](https://github.com/CBuchan5/acebook-SACDWS)**            | An app to help users connect  | Java Script,Express, Nodemon,            
-|                                                                      | to friends and family.        | Handlebars, Mongoose, ESLint, Jest,     
-|                                                                      |                               | Cypress, Bootstrap                       
+| Name                                                                 | Description                   | Tech/tools                                             |   
+|--------------------------------------------------------------------- | ----------------------------- | -------------------------------------                  |
+| **[Get Me Out Of Here](https://github.com/CBuchan5/escape-room)**    | An escape room based webgame. | React, Node js, HTML/CSS, Matter js, Testing: jest (back and frontend), Integration testing: cypress |                
+| **[ACEBook](https://github.com/CBuchan5/acebook-SACDWS)**            | An app to help users connect to friends and family.   | Java Script,Express, Handlebars,  Mongoose, ESLint, Jest,Nodemon, Cypress, Bootstrap |          
+                       
 ## Work Experience
 
 **Company Name** (start-date to end-date)  
