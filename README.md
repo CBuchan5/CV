@@ -11,14 +11,25 @@ A sentence about who and what you are. Then a sentence about what you've achieve
                        
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**First Thought Equine** (Feb 2017 to Dec 2021)  
+Social & Digital Media Administrator
+ - Photograph uniquely designed saddles and edit images prior to upload on the company website.
+ - Film and edit video tutorials using Adobe Premier Pro and After Effects software.
+ - Develop graphics in Adobe Photoshop and InDesign.
+ - Engage with WOW retailers across multiple countries to acquire translations used for designs.
+ - Assist with administrative activities including office tasks and order packaging.
+ - Produce saddle components using carbon fibre and resin mixtures. 
+ - Generated profit for the company by ensuring the second hand shop was properly stocked and maintained.
+ - Engaged with potential customers and leveraged customer service skills to provide appropriate products. 
+ - Any experience, including roles and responsibilities and results achived in bullet point format.
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+**Self Employed** (July 2012 to Presant)  
+Freelance Design & Consulting
 
-**Company Name** (start-date to end-date)  
-_Your job title_
-
+- Provide consultancy services to various clients with a focus on graphic design and animation.
+- Complete international commissions involving logo design for clients in the Falkland Islands.
+- Created a 2D animation of a sheep walking into a PowerPoint presentation to assist with an advertising campaign promoting Falkland sheep. 
+- Developed advertising leaflets for a psychotherapist client and a local Reiki business; established social media pages and content for the Reiki business. 
 - Any experience relevent to software development
 
 ## Skills
