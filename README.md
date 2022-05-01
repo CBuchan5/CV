@@ -4,15 +4,15 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Projects
 
-| Name                         | Description                   | Tech/tools                        | Link
-| ---------------------------- | ----------------------------- | -------------------------------   | ----------------- 
-| **Get Me Out Of Here**       | An escape room based webgame. | React, Node js,                   | https://github.com/CBuchan5/escape-room
-|                              |                               | HTML / CSS                        |
-|                              |                               | Matter js                         |
-|                              |                               | Testing: jest (back and frontend) |
-|                              |                               | Integration testing: cypress      | 
-| **ACEBook**                  | An app to help users connect  |                                   |
-|                              | to friends and family.        | Ruby                              | https://github.com/CBuchan5/acebook-SACDWS
+| Name                         | Description                   | Tech/tools                              | Link
+| ---------------------------- | ----------------------------- | -------------------------------------   | ----------------- 
+| **Get Me Out Of Here**       | An escape room based webgame. | React, Node js, HTML/CSS, Matter js,    | https://github.com/CBuchan5/escape-room
+|                              |                               | Testing: jest (back and frontend),      |
+|                              |                               | Integration testing: cypress            |
+| ---------------------------- | ----------------------------- | -------------------------------------   | ------------------
+| **ACEBook**                  | An app to help users connect  | Java Script,Express, Nodemon,           | https://github.com/CBuchan5/acebook-SACDWS
+|                              | to friends and family.        | Handlebars, Mongoose, ESLint, Jest,     |
+|                              |                               | Cypress, Bootstrap                      | 
 ## Work Experience
 
 **Company Name** (start-date to end-date)  
