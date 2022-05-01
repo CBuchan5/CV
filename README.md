@@ -4,10 +4,15 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        | Link
-| ---------------------------- | ----------------- | ----------------- | ----------------- 
-| **Get Me Out Of Here**       | A webapp to do x. | React, Jest, etc. | https://github.com/CBuchan5/escape-room
-| **ACEBook**                  | A webapp to do y. | Ruby              | https://github.com/CBuchan5/acebook-SACDWS
+| Name                         | Description                   | Tech/tools                        | Link
+| ---------------------------- | ----------------------------- | -------------------------------   | ----------------- 
+| **Get Me Out Of Here**       | An escape room based webgame. | React, Node js,                   | https://github.com/CBuchan5/escape-room
+|                              |                               | HTML / CSS                        |
+|                              |                               | Matter js                         |
+|                              |                               | Testing: jest (back and frontend) |
+|                              |                               | Integration testing: cypress      | 
+| **ACEBook**                  | An app to help users connect  |                                   |
+|                              | to friends and family.        | Ruby                              | https://github.com/CBuchan5/acebook-SACDWS
 ## Work Experience
 
 **Company Name** (start-date to end-date)  
