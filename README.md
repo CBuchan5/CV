@@ -1,4 +1,4 @@
-## Your Name
+## Charlotte Buchan
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
@@ -31,38 +31,13 @@ Freelance Design & Consulting
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
 
--STAR
-connected - Cambridge and Milan, and have a specialist data science team in Seoul, South Korea.
-highly motivated
-professional
-growth mindset
+#### Communication 
+Throughout my previous job and during my time at Makers communication has been key. In my previous job it was essential to converse with both retailers and customers from around the world and at Makers when collaborating with my fellow team members, communication was key. Thus I have the ability to connect with people on a professional level.  
 
--What was the situation/task? (ST)
+#### Professional 
+In my previous job, my role involved communicating with both retailers and customers around the world. Especially with the online second hand shop, selling used saddle parts. A customer would either phone up or email in and I would have to lease with the CEO of the company to find out if we had the required items available and then update the customer in a timely manor. 
 
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
-
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
@@ -75,11 +50,11 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University for the Creative ArtsUniversity for the Creative Arts (September 2009 to July 2012)
+BA (Hons), CG Arts and AnimationBA (Hons), CG Arts and Animation, 2:1
+- Learning the pipeline of animation using various software, ranging from Autodesk Maya to Adobe Suite.
+- My final project 'De Chirico: Realm of Dreams' was graded at a 1st and was showcased at the most widely attended graduate show in London, New Designers.
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
 
 #### Any other qualifications
 
