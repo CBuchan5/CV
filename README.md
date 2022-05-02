@@ -1,6 +1,6 @@
 ## Charlotte Buchan
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+A Software Developer who recently graduated from Makers Academy, I am trained in both front end and back end development; a full stack developer. I previously worked in Graphic Design and Animation, however I realised I needed to try something new and add a new string to my bow.
 
 ## Projects
 
@@ -11,7 +11,7 @@ A sentence about who and what you are. Then a sentence about what you've achieve
                        
 ## Work Experience
 
-**First Thought Equine** (Feb 2017 to Dec 2021)  
+**First Thought Equine** (February 2017 to December 2021)  
 Social & Digital Media Administrator
  - Photograph uniquely designed saddles and edit images prior to upload on the company website.
  - Film and edit video tutorials using Adobe Premier Pro and After Effects software.
@@ -31,7 +31,6 @@ Freelance Design & Consulting
 
 ## Skills
 
-
 #### Communication 
 Throughout my previous job and during my time at Makers communication has been key. In my previous job it was essential to converse with both retailers and customers from around the world and at Makers when collaborating with my fellow team members, communication was key. Thus I have the ability to connect with people on a professional level.  
 
@@ -42,13 +41,14 @@ In my previous job, my role involved communicating with both retailers and custo
 ## Education
 
 #### Makers Academy (Feb 2017 to Dec 2021)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+Computer Software Engineering 
+An intensive 16 week bootcamp where I learnt a wide range of techniques required to become a software engineer. Below are the skills which I have learnt:
+- Learning TDD to make sure programs are working correctly
+- Ruby and interacting with it in IRB, Javascript and Node.js as well as React
+- RI have used the following testing technologies: spec, Jest, Cypress
+- HTML, CSS 
+
+
 
 #### University for the Creative ArtsUniversity for the Creative Arts (September 2009 to July 2012)
 BA (Hons), CG Arts and AnimationBA (Hons), CG Arts and Animation, 2:1
@@ -58,8 +58,8 @@ BA (Hons), CG Arts and AnimationBA (Hons), CG Arts and Animation, 2:1
 
 #### Any other qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
+Successful completion of all stages of the Duke of Edinburgh Award, especially Gold. 
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+World music, creative writing, costume making, and violin.
