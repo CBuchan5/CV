@@ -18,10 +18,8 @@ Social & Digital Media Administrator
  - Develop graphics in Adobe Photoshop and InDesign.
  - Engage with WOW retailers across multiple countries to acquire translations used for designs.
  - Assist with administrative activities including office tasks and order packaging.
- - Produce saddle components using carbon fibre and resin mixtures. 
  - Generated profit for the company by ensuring the second hand shop was properly stocked and maintained.
  - Engaged with potential customers and leveraged customer service skills to provide appropriate products. 
- - Any experience, including roles and responsibilities and results achived in bullet point format.
 
 **Self Employed** (July 2012 to Presant)  
 Freelance Design & Consulting
@@ -30,7 +28,6 @@ Freelance Design & Consulting
 - Complete international commissions involving logo design for clients in the Falkland Islands.
 - Created a 2D animation of a sheep walking into a PowerPoint presentation to assist with an advertising campaign promoting Falkland sheep. 
 - Developed advertising leaflets for a psychotherapist client and a local Reiki business; established social media pages and content for the Reiki business. 
-- Any experience relevent to software development
 
 ## Skills
 
@@ -38,6 +35,11 @@ Consider skills relevent to software development. Then consider your best skills
 (Using a STAR example Paragraph) Consider the questions below.
 
 -STAR
+connected - Cambridge and Milan, and have a specialist data science team in Seoul, South Korea.
+highly motivated
+professional
+growth mindset
+
 -What was the situation/task? (ST)
 
 -How was the skill used?
@@ -64,7 +66,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Feb 2017 to Dec 2021)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
