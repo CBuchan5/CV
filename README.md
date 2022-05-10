@@ -1,6 +1,6 @@
 ## Charlotte Buchan
 
-A Software Developer who recently graduated from Makers Academy, I am trained in both front end and back end development; a full stack developer. I previously worked in Graphic Design and Animation, however I realised I needed to try something new and add a new string to my bow.
+A Software Developer and recent Makers graduate, I previously worked in Graphic Design and Animation. I entered the tech industry to add a new string to my bow. Knowing that the industry constantly evolves and changes and being a lover of solving problems in a creative way, I would love to be able to combine my skills to create tech which will have great impact on peoples’ lives. 
 
 ## Projects
 
@@ -43,15 +43,14 @@ In my previous job, my role involved communicating with both retailers and custo
 #### Makers Academy (Feb 2017 to Dec 2021)
 Computer Software Engineering 
 An intensive 16 week bootcamp where I learnt a wide range of techniques required to become a software engineer. Below are the skills which I have learnt:
-- Working efficiently in a team by pair programming daily and using Agile methods such as daily stand ups and sprint planning
-- Use Agile methodologies to work effectively in a team, using pair programming, XP values, daily stand-ups and sprint planning. 
-- Communicating and adapting a growth mindset by giving and receiving code reviews. 
+- Working efficiently in a team by pair programming daily and using Agile methods such as daily stand ups and sprint planning 
+- Communicating and adapting a growth mindset by giving and receiving code reviews. Also attended Emotional Intelligence workshops covering these topics. 
 - Creating user stories, developing an MVP, breaking down projects into smaller tasks so they are easy to accomplish. 
 - Using GitHub to collaborate with team members using CI/CD to reduce integration risk.
 
 #### University for the Creative Arts(Rochester) (September 2009 to July 2012)
 BA (Hons), CG Arts and AnimationBA (Hons), CG Arts and Animation, 2:1
-- Learning the pipeline of animation using various software, ranging from Autodesk Maya to Adobe Suite.
+- Learning the pipeline of animation using various software. This consisted of Autodesk Maya, Photoshop, Premiere Pro and After Effects.
 - My final project 'De Chirico: Realm of Dreams' was graded at a 1st and was showcased at the most widely attended graduate show in London, New Designers.
 
 
