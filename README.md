@@ -40,7 +40,7 @@ In my previous job, my role involved communicating with both retailers and custo
 
 ## Education
 
-#### Makers Academy (Feb 2017 to Dec 2021)
+#### Makers Academy (Dec 2021 to April 2022)
 Computer Software Engineering 
 An intensive 16 week bootcamp where I learnt a wide range of techniques required to become a software engineer. Below are the skills which I have learnt:
 - Working efficiently in a team by pair programming daily and using Agile methods such as daily stand ups and sprint planning 
