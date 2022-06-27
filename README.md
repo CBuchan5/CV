@@ -1,6 +1,6 @@
 ## Charlotte Buchan
 
-A Software Developer and recent Makers graduate, I previously worked in Graphic Design and Animation. I entered the tech industry to add a new string to my bow. Knowing that the industry constantly evolves and changes and being a lover of solving problems in a creative way, I would love to be able to combine my skills to create tech which will have great impact on peoples’ lives. 
+A Software Developer and recent Makers graduate, I previously worked in Graphic Design and Animation. Working in Graphic Design lead to an interest in Software Engineering. I have a creative mind and saw this an an opportunity to quire new skills. Knowing that the industry constantly evolves and changes and being a lover of solving problems in a creative way, I would love to be able to combine my skills to create technology that is adaptable and which will have an impact.	
 
 ## Projects
 
